@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.15.12](https://github.com/fluencelabs/cli/compare/fluence-cli-v0.15.11...fluence-cli-v0.15.12) (2024-02-28)
+
+
+### Features
+
+* add white and black list [fixes DXJ-623] ([#815](https://github.com/fluencelabs/cli/issues/815)) ([3da88ec](https://github.com/fluencelabs/cli/commit/3da88ec0e67f196a65c73ff8b46f82769f88cab1))
+* update deal-ts-clients ([#817](https://github.com/fluencelabs/cli/issues/817)) ([788e38f](https://github.com/fluencelabs/cli/commit/788e38f6b56110e6fa07a6fc87b313a84b5c773d))
+
 ## [0.15.11](https://github.com/fluencelabs/cli/compare/fluence-cli-v0.15.10...fluence-cli-v0.15.11) (2024-02-27)
 
 
